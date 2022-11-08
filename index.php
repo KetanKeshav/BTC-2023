@@ -21,12 +21,12 @@
         <div class="slider_text">
             <div class="container">
                 <div class="position_relv">
-                    <h1 class="opcity_text d-none d-lg-block">BTC - 2022</h1>
+                    <h1 class="opcity_text d-none d-lg-block">BTC - 2023</h1>
                     <div class="row">
                         <div class="col-xl-9 col-md-6 xol-sm-6">
                             <div class="title_text">
                                 <h3>BANGALORE TECHNOLOGY<br>
-                                    CONCLAVE 2022<br>
+                                    CONCLAVE 2023<br>
                                 </h3>
                                 <div class="single_date">
                                     <span>Responsible AI: Robust Technology, Impactful Business</span>
@@ -144,7 +144,7 @@
     <!-- sponsors_start -->
     <div id="speakers" class="speakers_area">
         <h1 class="horizontal_text d-none d-lg-block">
-            Sponsors - BTC 2022
+            Sponsors - BTC 2023
         </h1>
         <div class="container">
             <div class="row">

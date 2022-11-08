@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Metaverse Training | BTC 2022</title>
+    <title>Metaverse Training | BTC 2023</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -24,7 +24,7 @@
                     <div class="row">
                         <div class="col-xl-8">
                             <div class="title_text title_text2 ">
-                                <h3>BTC 2022</h3>
+                                <h3>BTC 2023</h3>
                                 <h2>METAVERSE TRAINING</h2>
                                 <h1>Chairs - <br> Chengappa M R, Debdeep Sarkar</h1>
                                 <!-- <a href="#" class="boxed-btn-white">Add to your Calendar</a> -->

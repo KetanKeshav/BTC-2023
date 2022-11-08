@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Organizing Committee | BTC 2022</title>
+    <title>Organizing Committee | BTC 2023</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -24,7 +24,7 @@
                     <div class="row">
                         <div class="col-xl-8">
                             <div class="title_text title_text2 ">
-                                <h3>BTC 2022 Organizing Committee</h3>
+                                <h3>BTC 2023 Organizing Committee</h3>
                                 <!-- <a href="#" class="boxed-btn-white">Add to your Calendar</a> -->
                             </div>
                         </div>

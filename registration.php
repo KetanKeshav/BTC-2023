@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Registration | BTC 2022</title>
+    <title>Registration | BTC 2023</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -24,7 +24,7 @@
                     <div class="row">
                         <div class="col-xl-8">
                             <div class="title_text title_text2 ">
-                                <h3>BTC 2022 Registration</h3>
+                                <h3>BTC 2023 Registration</h3>
                                 <!-- <a href="#" class="boxed-btn-white">Add to your Calendar</a> -->
                             </div>
                         </div>
@@ -62,7 +62,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-12">
-                <iframe src="https://in.explara.com/widget-new/btc-2022" frameborder="0" style="width:100%;" height="750"></iframe>
+                <iframe src="https://in.explara.com/widget-new/btc-2023" frameborder="0" style="width:100%;" height="750"></iframe>
                 </div>
             </div>
         </div>
