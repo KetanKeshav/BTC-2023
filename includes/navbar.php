@@ -21,6 +21,12 @@
                                         <li><a <?php if($page=='training') echo 'class="active"' ?> href="training.php">Metaverse Training</a></li>
                                         <li><a <?php if($page=='schedule') echo 'class="active"' ?> href="schedule.php">Schedule</a></li> -->
                                         <li><a <?php if($page=='venue') echo 'class="active"' ?> href="venue.php">Venue</a></li>
+                                        <li><a href="#">Previous Editions<i class="ti-angle-down"></i></a>
+                                            <ul class="submenu">
+                                                <li><a href="https://btc-2022.ieeebangalore.org/" target="_blank">BTC 2022</a></li>
+                                                <li><a href="https://btc-2021.ieeebangalore.org/" target="_blank">BTC 2021</a></li>
+                                            </ul>
+                                        </li>
                                         <!-- <li><a <?php if($page=='registration') echo 'class="active"' ?> href="registration.php">Registration</a></li> -->
                                         <!-- <li><a href="Venue.html">WIE Global Summit</a></li> -->
                                         <!-- <li><a href="Venue.html">YP Global Summit</a></li> -->
