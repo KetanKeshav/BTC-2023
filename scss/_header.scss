@@ -107,13 +107,13 @@
                         opacity: 0;
                         visibility: hidden;
                         text-align: left;
-                        @include transition(.6s);
+                        @include transition(.9s);
                         li{
                             display: block;
                             a{
                                 padding: 10px 15px;
                                 position: inherit;
-                                @include transition(.3s);
+                                @include transition(.6s);
                                 display: block;
                                 color: #000;
                                 &::before{
