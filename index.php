@@ -84,7 +84,7 @@
                     <div class="about_info">
                         <div class="section_title">
                             <span class="sub_heading">Welcome To The</span>
-                            <h3>4rd edition <br>
+                            <h3>4th edition <br>
                                 of IEEE Bangalore Technology Conclave (BTC) <br>
                                 on the theme <br>
                                 Responsible AI: Robust Technology, Impactful Business.</h3>
