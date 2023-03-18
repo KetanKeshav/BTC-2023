@@ -156,9 +156,9 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
+            <!-- <div class="row">
                 <img class="img-fluid" src="img/brand/sponsor.png">
-            </div>
+            </div> -->
         </div>
     </div>
     <!-- sponsors_end-->
