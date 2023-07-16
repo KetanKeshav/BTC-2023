@@ -25,6 +25,7 @@
                                             <ul class="submenu">
                                                 <li><a href="https://btc-2022.ieeebangalore.org/" target="_blank">BTC 2022</a></li>
                                                 <li><a href="https://btc-2021.ieeebangalore.org/" target="_blank">BTC 2021</a></li>
+                                                <li><a href="https://btc.ieeebangalore.org/" target="_blank">BTC 2020</a></li>
                                             </ul>
                                         </li>
                                         <!-- <li><a <?php if($page=='registration') echo 'class="active"' ?> href="registration.php">Registration</a></li> -->
