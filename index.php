@@ -45,13 +45,13 @@
                     <div class="col-xl-4 col-md-6 col-lg-4">
                         <div class="single_date">
                             <i class="ti-location-pin"></i>
-                            <span>Hybrid - Chancery Pavillion</span>
+                            <span>Royal Orchid, Manipal Center</span>
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-6 col-lg-3">
                         <div class="single_date">
                             <i class="ti-alarm-clock"></i>
-                            <span>3 & 4 November</span>
+                            <span>4 November</span>
                         </div>
                     </div>
 

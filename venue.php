@@ -38,13 +38,13 @@
                     <div class="col-xl-4 col-md-6 col-lg-4">
                         <div class="single_date">
                             <i class="ti-location-pin"></i>
-                            <span>Chancery Pavillion</span>
+                            <span>Royal Orchid, Manipal Center</span>
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-6 col-lg-3">
                         <div class="single_date">
                             <i class="ti-alarm-clock"></i>
-                            <span>3 & 4 November</span>
+                            <span>4 November</span>
                         </div>
                     </div>
                     <div class="col-xl-5 col-md-12 col-lg-5">
@@ -62,11 +62,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-6 col-6">
-                    <img src="https://r1imghtlak.mmtcdn.com/b9478ec0876f11e498ae32e76f7e45c9.jfif?&output-quality=75&downsize=910:612&crop=910:612;130,0&output-format=jpg" width="100%">
+                    <img src="img\venue\royalOrchid.jpeg" width="100%">
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-6 col-6">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.086504313173!2d77.59638321482188!3d12.96631629085934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae15d7b63cf2eb%3A0x8f7b9a58eea12c1b!2sThe%20Chancery%20Pavilion!5e0!3m2!1sen!2sin!4v1662920902715!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                </div>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.9531780697716!2d77.61284127517952!3d12.974846587340817!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae16846913b3b1%3A0xb60950daef881157!2sRoyal%20Orchid%20Central%20Bengaluru!5e0!3m2!1sen!2sin!4v1696793422318!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>                </div>
             </div>
         </div>
     </section>
