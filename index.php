@@ -143,9 +143,9 @@
 
     <!-- sponsors_start -->
     <div id="speakers" class="speakers_area">
-        <h1 class="horizontal_text d-none d-lg-block">
+        <!--h1 class="horizontal_text d-none d-lg-block">
             Sponsors - BTC 2023
-        </h1>
+        </h1-->
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
@@ -156,12 +156,20 @@
                     </div>
                 </div>
             </div>
-            <br><br>
-            <!-- <div class="row">
-                <img class="img-fluid" src="img/brand/sponsor.png">
-            </div> -->
+            <div class="row">
+            <div class="col-xl-3 col-md-6 single_speaker">
+                    <div class="speaker_thumb">
+                        <img src="img/sponsors/boeing.png" alt="">
+                    </div>
+            </div>
+            <div class="col-xl-3 col-md-6 single_speaker">
+                    <div class="speaker_thumb">
+                        <img src="img/sponsors/honeywell.png" alt="">
+                    </div>
+            </div>
         </div>
     </div>
+    <br><br><br>
     <!-- sponsors_end-->
 
     <!-- speakers_start -->
