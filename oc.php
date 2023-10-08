@@ -157,7 +157,7 @@
                 </div>
                 <div class="col-xl-3 col-md-6 single_speaker">
                     <div class="speaker_thumb">
-                        <img src="img/oc/Jibin.png" alt="">
+                        <img src="img/oc/jibin.png" alt="">
                         <div class="hover_overlay">
                             <div class="social_icon">
                                 <a href="#"><i class="fa fa-facebook"></i></a>
