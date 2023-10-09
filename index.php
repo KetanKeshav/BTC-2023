@@ -87,10 +87,9 @@
                             <h3>4th edition <br>
                                 of IEEE Bangalore Technology Conclave (BTC) <br>
                                 on the theme <br>
-                                Responsible AI: Robust Technology, Impactful Business.</h3>
+                                Responsible AI: Robust Tech , Impactful Biz</h3>
                         </div>
-                        <p>IEEE BTC 2023 is a flagship event of IEEE Bangalore Section, organized in collaboration with 
-                            its two affinity groups - Women in Engineering (WiE) and Young Professionals (YP). It is held 
+                        <p>IEEE BTC 2023 is a flagship event of IEEE Bangalore Section. It is held 
                             annually as part of the Industry Relations program of the Section; where technology leaders, 
                             innovators, entrepreneurs, and thought provokers share their passion in addressing impactful 
                             problems, and vision on futuristic technologies that will/may disrupt/impact our way of working 
