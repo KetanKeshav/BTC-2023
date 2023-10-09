@@ -29,7 +29,7 @@
                                     CONCLAVE 2023<br>
                                 </h3>
                                 <div class="single_date">
-                                    <span>Responsible AI: Robust Technology, Impactful Business</span>
+                                    <span>Responsible AI: Robust Tech , Impactful Biz</span>
                                 </div>
                                 <a href="registration.php" style="margin-top: 10px;" class="boxed-btn-white">Register Now!</a>
                             </div>
@@ -94,7 +94,7 @@
                             innovators, entrepreneurs, and thought provokers share their passion in addressing impactful 
                             problems, and vision on futuristic technologies that will/may disrupt/impact our way of working 
                             and living.<br><br>
-                            This edition of IEEE BTC will be based on the theme of Responsible AI: Robust Technology, Impactful Business<br>
+                            This edition of IEEE BTC will be based on the theme of Responsible AI: Robust Tech , Impactful Biz<br>
                             <!-- <ul>
                                 <li>AR/VR/XR</li>
                                 <li>IoT, 5G, Web 3.0</li>
