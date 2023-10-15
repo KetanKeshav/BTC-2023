@@ -28,9 +28,7 @@
                                                 <li><a href="https://btc.ieeebangalore.org/" target="_blank">BTC 2020</a></li>
                                             </ul>
                                         </li>
-                                        <!-- <li><a <?php if($page=='registration') echo 'class="active"' ?> href="registration.php">Registration</a></li> -->
-                                        <!-- <li><a href="Venue.html">WIE Global Summit</a></li> -->
-                                        <!-- <li><a href="Venue.html">YP Global Summit</a></li> -->
+                                        <li><a <?php if($page=='registration') echo 'class="active"' ?> href="registration.php">Registration</a></li>
                                     </ul>
                                 </nav>
                             </div>

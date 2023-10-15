@@ -38,13 +38,13 @@
                     <div class="col-xl-4 col-md-6 col-lg-4">
                         <div class="single_date">
                             <i class="ti-location-pin"></i>
-                            <span>Chancery Pavillion</span>
+                            <span>Royal Orchid, Manipal Center</span>
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-6 col-lg-3">
                         <div class="single_date">
                             <i class="ti-alarm-clock"></i>
-                            <span>3 & 4 November</span>
+                            <span>4 November</span>
                         </div>
                     </div>
                     <div class="col-xl-5 col-md-12 col-lg-5">
@@ -62,7 +62,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-12">
-                <iframe src="https://in.explara.com/widget-new/btc-2023" frameborder="0" style="width:100%;" height="750"></iframe>
+                <iframe src="https://in.explara.com/widget-new/ieee-btc-2023" frameborder="0" style="width:100%;" height="750"></iframe>
                 </div>
             </div>
         </div>
