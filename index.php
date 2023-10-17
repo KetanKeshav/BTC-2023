@@ -149,9 +149,9 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="serction_title_large mb-5">
-                        <h1>
+                        <h3>
                             Sponsors
-                        </h1>
+                        </h3>
                     </div>
                 </div>
             </div>
