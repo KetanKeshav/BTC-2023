@@ -31,7 +31,8 @@
                                 <div class="single_date">
                                     <span>Responsible AI: Robust Tech , Impactful Biz</span>
                                 </div>
-                                <a href="registration.php" style="margin-top: 10px;" class="boxed-btn-white">Register Now!</a>
+                                <a href="registration.php" style="margin-top: 10px;" class="boxed-btn-white">Register
+                                    Now!</a>
                             </div>
                         </div>
                     </div>
@@ -66,7 +67,7 @@
     <!-- slider_area_end -->
 
     <!-- about_area_start -->
-    <div id="about"class="about_area">
+    <div id="about" class="about_area">
         <div class="shape-1 d-none d-xl-block">
             <img src="img/about/shap1.png" alt="">
         </div>
@@ -89,12 +90,14 @@
                                 on the theme <br>
                                 Responsible AI: Robust Tech , Impactful Biz</h3>
                         </div>
-                        <p>IEEE BTC 2023 is a flagship event of IEEE Bangalore Section. It is held 
-                            annually as part of the Industry Relations program of the Section; where technology leaders, 
-                            innovators, entrepreneurs, and thought provokers share their passion in addressing impactful 
-                            problems, and vision on futuristic technologies that will/may disrupt/impact our way of working 
+                        <p>IEEE BTC 2023 is a flagship event of IEEE Bangalore Section. It is held
+                            annually as part of the Industry Relations program of the Section; where technology leaders,
+                            innovators, entrepreneurs, and thought provokers share their passion in addressing impactful
+                            problems, and vision on futuristic technologies that will/may disrupt/impact our way of
+                            working
                             and living.<br><br>
-                            This edition of IEEE BTC will be based on the theme of Responsible AI: Robust Tech , Impactful Biz<br>
+                            This edition of IEEE BTC will be based on the theme of Responsible AI: Robust Tech ,
+                            Impactful Biz<br>
                             <!-- <ul>
                                 <li>AR/VR/XR</li>
                                 <li>IoT, 5G, Web 3.0</li>
@@ -109,8 +112,8 @@
     </div>
     <!-- about_area_end -->
 
-        <!-- brand_area_start -->
-        <!-- <div class="brand_area">
+    <!-- brand_area_start -->
+    <!-- <div class="brand_area">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
@@ -142,37 +145,49 @@
 
     <!-- sponsors_start -->
     <div id="speakers" class="speakers_area">
-        <!--h1 class="horizontal_text d-none d-lg-block">
-            Sponsors - BTC 2023
-        </h1-->
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
-                    <div class="serction_title_large mb-95">
-                        <h3>
+                    <div class="serction_title_large mb-5">
+                        <h1>
                             Sponsors
-                        </h3>
+                        </h1>
                     </div>
                 </div>
             </div>
             <div class="row">
-            <div class="col-xl-3 col-md-6 single_speaker">
+                <div class="col-xl-3 col-md-6 single_speaker">
                     <div class="speaker_thumb">
-                        <img src="img/sponsors/boeing.png" alt="">
+                        <img src="img/sponsors/2.png" alt="">
                     </div>
+                </div>
+                <div class="col-xl-3 col-md-6 single_speaker">
+                    <div class="speaker_thumb">
+                        <img src="img/sponsors/1.png" alt="">
+                    </div>
+                </div>
             </div>
-            <div class="col-xl-3 col-md-6 single_speaker">
-                    <div class="speaker_thumb">
-                        <img src="img/sponsors/honeywell.png" alt="">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="serction_title_large mb-5">
+                        <h1>
+                            Community Partners
+                        </h1>
                     </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xl-3 col-md-6 single_speaker">
+                    <div class="speaker_thumb">
+                        <img src="img/sponsors/3.png" alt="">
+                    </div>
+                </div>
             </div>
         </div>
-    </div>
-    <br><br><br>
-    <!-- sponsors_end-->
+        <!-- sponsors_end-->
 
-    <!-- speakers_start -->
-    <!-- <div id="speakers" class="speakers_area">
+        <!-- speakers_start -->
+        <!-- <div id="speakers" class="speakers_area">
         <h1 class="horizontal_text d-none d-lg-block">
             Speakers
         </h1>
@@ -200,10 +215,10 @@
         </div>
     </div>
     <br><br><br><br><br> -->
-    <!-- speakers_end-->
+        <!-- speakers_end-->
 
-    <!-- event_area_start -->
-    <!-- <div class="event_area">
+        <!-- event_area_start -->
+        <!-- <div class="event_area">
         <h1 class="vr_text d-none d-lg-block">Event Schedule</h1>
         <div class="container">
             <div class="double_line">
@@ -315,11 +330,11 @@
             </div>
         </div>
     </div> -->
-    <!-- event_area_end -->
+        <!-- event_area_end -->
 
 
-    <!-- resister_book_start -->
-    <!-- <div class="resister_book resister_bg_1">
+        <!-- resister_book_start -->
+        <!-- <div class="resister_book resister_bg_1">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
@@ -332,11 +347,11 @@
             </div>
         </div>
     </div> -->
-    <!-- resister_book_end -->
+        <!-- resister_book_end -->
 
 
-    <!-- faq_area_Start -->
-    <!-- <div class="faq_area">
+        <!-- faq_area_Start -->
+        <!-- <div class="faq_area">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
@@ -418,9 +433,9 @@
             </div>
         </div>
     </div> -->
-    <!-- faq_area_end -->
+        <!-- faq_area_end -->
 
-    <?php include 'includes/footer.php'; ?>
+        <?php include 'includes/footer.php'; ?>
 
 </body>
 
