@@ -170,9 +170,9 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="serction_title_large mb-5">
-                        <h1>
+                        <h3>
                             Community Partners
-                        </h1>
+                        </h3>
                     </div>
                 </div>
             </div>
@@ -180,6 +180,11 @@
                 <div class="col-xl-3 col-md-6 single_speaker">
                     <div class="speaker_thumb">
                         <img src="img/sponsors/3.png" alt="">
+                    </div>
+                </div>
+                <div class="col-xl-3 col-md-6 single_speaker">
+                    <div class="speaker_thumb">
+                        <img src="img/sponsors/E2E Cloud Logo .png" alt="">
                     </div>
                 </div>
             </div>
