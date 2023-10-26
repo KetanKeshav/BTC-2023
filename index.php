@@ -187,6 +187,11 @@
                         <img src="img/sponsors/E2E Cloud Logo .png" alt="">
                     </div>
                 </div>
+                <div class="col-xl-3 col-md-6 single_speaker">
+                    <div class="speaker_thumb">
+                        <img src="img/sponsors/soda-logo.png" alt="">
+                    </div>
+                </div>
             </div>
         </div>
         <!-- sponsors_end-->
