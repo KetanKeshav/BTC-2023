@@ -65,7 +65,7 @@
                     <img src="img\venue\royalOrchid.jpeg" width="100%">
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-6 col-6">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.9531780697716!2d77.61284127517952!3d12.974846587340817!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae16846913b3b1%3A0xb60950daef881157!2sRoyal%20Orchid%20Central%20Bengaluru!5e0!3m2!1sen!2sin!4v1696793422318!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>                </div>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.2241945900023!2d77.64152127515676!3d12.957500987356548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1405dbb04b89%3A0x6ba4a1a96e5ed004!2sHotel%20Royal%20Orchid!5e0!3m2!1sen!2sin!4v1698493864775!5m2!1sen!2sin" width="550" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>
     </section>
