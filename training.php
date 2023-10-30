@@ -40,7 +40,7 @@
                     <div class="col-xl-4 col-md-6 col-lg-4">
                         <div class="single_date">
                             <i class="ti-location-pin"></i>
-                            <span>Hotel Royal Orchid</span>
+                            <span>Royal Orchid, Bengaluru</span>
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-6 col-lg-3">
