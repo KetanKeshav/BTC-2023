@@ -38,7 +38,7 @@
                     <div class="col-xl-4 col-md-6 col-lg-4">
                         <div class="single_date">
                             <i class="ti-location-pin"></i>
-                            <span>Royal Orchid, Manipal Center</span>
+                            <span>Hotel Royal Orchid</span>
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-6 col-lg-3">
@@ -78,12 +78,9 @@
             <div class="row">
                 <img class="img-fluid" src="./img/speakers/speakers2.png">
             </div>
-            <!-- <div class="row">
-                <img class="img-fluid" src="./img/speakers/sp2.png">
-            </div>
             <div class="row">
-                <img class="img-fluid" src="./img/speakers/sp3.png">
-            </div> -->
+                <img class="img-fluid" src="./img/speakers/speakers3.png">
+            </div>
         </div>
     </div>
     <br><br><br><br><br>
