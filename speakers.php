@@ -81,6 +81,9 @@
             <div class="row">
                 <img class="img-fluid" src="./img/speakers/speakers3.png">
             </div>
+            <div class="row">
+                <img class="img-fluid" src="./img/speakers/speakers4.png">
+            </div>
         </div>
     </div>
     <br><br><br><br><br>
